@@ -1,0 +1,10 @@
+c:\users\menghour\documents\visual studio 2015\Projects\es1\es1\bin\Debug\es1.exe.config
+c:\users\menghour\documents\visual studio 2015\Projects\es1\es1\bin\Debug\es1.exe
+c:\users\menghour\documents\visual studio 2015\Projects\es1\es1\bin\Debug\es1.pdb
+c:\users\menghour\documents\visual studio 2015\Projects\es1\es1\obj\Debug\es1.csprojResolveAssemblyReference.cache
+c:\users\menghour\documents\visual studio 2015\Projects\es1\es1\obj\Debug\es1.Form1.resources
+c:\users\menghour\documents\visual studio 2015\Projects\es1\es1\obj\Debug\es1.Properties.Resources.resources
+c:\users\menghour\documents\visual studio 2015\Projects\es1\es1\obj\Debug\es1.csproj.GenerateResource.Cache
+c:\users\menghour\documents\visual studio 2015\Projects\es1\es1\obj\Debug\es1.exe
+c:\users\menghour\documents\visual studio 2015\Projects\es1\es1\obj\Debug\es1.pdb
+C:\Users\Menghour\Documents\Visual Studio 2015\Projects\es1\es1\obj\Debug\es1.customerform.resources
